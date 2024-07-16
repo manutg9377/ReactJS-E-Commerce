@@ -1,7 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07aaa154-5f3f-40d3-97a6-24976091b533" name="Changes" comment="React JS Ecommerce-FoodOrderApp" />
+    <list default="true" id="07aaa154-5f3f-40d3-97a6-24976091b533" name="Changes" comment="React JS Ecommerce-Get Movies">
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/data/available-meals.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/data/orders.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/beef-tacos.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/caesar-salad.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/chicken-curry.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/chocolate-brownie.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/eggplant-parmesan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/falafel-wrap.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/grilled-chicken-sandwich.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/lemon-cheesecake.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/lobster-bisque.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/mac-and-cheese.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/margherita-pizza.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/miso-ramen.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/mushroom-risotto.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/pancake-stack.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/seafood-paella.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/spaghetti-carbonara.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/steak-frites.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/sushi-roll-platter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/vegan-buddha-bowl.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/backend/public/images/veggie-burger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Cart/Cart.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Cart/Cart.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Cart/CartIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Cart/CartItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Cart/CartItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Layout/Header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Layout/Header.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Layout/HeaderCartButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Layout/HeaderCartButton.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Layout/HeaderTasty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/AvailableMeals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/AvialableMeals.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealItem/MealItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealItem/MealItem.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealItem/MealItemForm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealItem/MealItemForm.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/Meals.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealsSummery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealsSummery.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/Meals/MealsTasty.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/UI/Card.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/UI/Card.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/UI/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/UI/Input.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/UI/Model.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Component/UI/Model.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Store/CartProvider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/Store/cart-context.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/assets/Meals.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/assets/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FoodOrderApp/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/components/Movie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/components/Movie.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/components/MoviesList.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/components/MoviesList.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Get_Movies/01-starting-project/src/index.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,7 +137,21 @@
       <option name="project" value="LOCAL" />
       <updated>1721114107413</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="React JS Ecommerce-FoodOrderAppHTTP">
+      <created>1721115930852</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1721115930852</updated>
+    </task>
+    <task id="LOCAL-00005" summary="React JS Ecommerce-Get Movies">
+      <created>1721116041373</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1721116041373</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -70,6 +168,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="React JS Ecommerce" />
     <MESSAGE value="React JS Ecommerce-FoodOrderApp" />
-    <option name="LAST_COMMIT_MESSAGE" value="React JS Ecommerce-FoodOrderApp" />
+    <MESSAGE value="React JS Ecommerce-FoodOrderAppHTTP" />
+    <MESSAGE value="React JS Ecommerce-Get Movies" />
+    <option name="LAST_COMMIT_MESSAGE" value="React JS Ecommerce-Get Movies" />
   </component>
 </project>
