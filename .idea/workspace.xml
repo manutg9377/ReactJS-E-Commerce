@@ -1,106 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="07aaa154-5f3f-40d3-97a6-24976091b533" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/sonarlint/issuestore/4/8/48e14bc8bfbfe1d2aec08597aca29c7fc165905a" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/sonarlint/issuestore/a/5/a5cc2925ca8258af241be7e5b0381edf30266302" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/AddingUserComponent/01-starting-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/AddingUserComponent/01-starting-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/AddingUserComponent/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/App1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/App1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Cart/Cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Cart/Cart.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Cart/CartIcon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Cart/CartItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Cart/CartItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Layout/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Layout/Header.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Layout/HeaderCartButton.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Layout/HeaderCartButton.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Layout/HeaderTasty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/AvailableMeals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/AvialableMeals.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealItem/MealItem.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealItem/MealItem.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealItem/MealItemForm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealItem/MealItemForm.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/Meals.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealsSummery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealsSummery.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/Meals/MealsTasty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/UI/Card.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/UI/Card.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/UI/Input.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/UI/Input.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/UI/Model.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Component/UI/Model.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Store/CartProvider.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/Store/cart-context.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/assets/Meals.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/assets/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/index.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp - Copy/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp-HTTPForm/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp-HTTPForm/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/backend/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/backend/data/available-meals.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/backend/data/orders.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/backend/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/backend/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/src/Component/Layout/HeaderTasty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/src/Component/Meals/MealsTasty.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/src/assets/logo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FormsValidation/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FormsValidation/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/Fragment-WrapperComponent/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/Fragment-WrapperComponent/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/Get_Movies/01-starting-project/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/Get_Movies/01-starting-project/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/InvesmentCalculator/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/InvesmentCalculator/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/PracticeProject/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/PracticeProject/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/REDUX/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/REDUX/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/SIDEEFFECT-LOGINAPP/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/SIDEEFFECT-LOGINAPP/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/StylingApp1/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/StylingApp1/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/Server-api/db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/Server-api/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/Server-api/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/api/contacts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/AddContact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/App.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/App.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/ContactCard.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/ContactDetails.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/ContactList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/EditContact.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/component/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/images/user.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/contacts/contacts_telephone/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/REACT_OWN_PROJECTS/FoodOrderApp/src/App.js" afterDir="false" />
-    </list>
+    <list default="true" id="07aaa154-5f3f-40d3-97a6-24976091b533" name="Changes" comment="React JS Ecommerce" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_UPDATE_ALL_ROOTS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2jJlbO2GtuwvDxZN7qPpAej92sS" />
@@ -112,6 +20,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../REACT_CONTACTS" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -123,6 +32,29 @@
       <option name="presentableId" value="Default" />
       <updated>1721113132285</updated>
     </task>
+    <task id="LOCAL-00001" summary="React JS Ecommerce">
+      <created>1721113486068</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1721113486068</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="React JS Ecommerce" />
+    <option name="LAST_COMMIT_MESSAGE" value="React JS Ecommerce" />
   </component>
 </project>
